@@ -1,7 +1,7 @@
 name: the zen kitchen
 favicon: null
-layout_spectrum: 0.1291355830617249
-typography_spectrum: 0.7791523488704115
+layout_spectrum: 0.14305
+typography_spectrum: 0.1352
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.33955466328188777
+  brandStrength: 0.0625
   lightness: 0.8844434567727149
   saturation: 0.28281747293658555
-  rhythmicContrast: 0.9678883769083768
+  rhythmicContrast: 1
 purpose: []
